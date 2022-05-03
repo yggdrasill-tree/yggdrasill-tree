@@ -1,5 +1,7 @@
-### Hi there 👋
-
+![](https://github-readme-stats.vercel.app/api?username=yggdrasill-tree&theme=dark)
+### Hi there
+欢迎来到这里，暂时这里啥也不是，因为我还没想好要干什么
+你可以帮助我提一些有趣的想法嘛？也许对我有些帮助噢！
 <!--
 **yggdrasill-tree/yggdrasill-tree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
